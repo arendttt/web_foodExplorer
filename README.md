@@ -1,10 +1,13 @@
-# Food Explorer
+# Food Explorer 🚀🔥
 
 ## Sobre o projeto
 O Food Explorer é o projeto final do curso de desenvolvimento Full Stack da RocketSeat, o Explorer. <br />
 Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio digital para uma empresa ficticia. 
 
-## Principais Tecnologias
+ <br />
+ <br />
+  
+## Principais Tecnologias 🔧
 - React.js
   - Styled Components
   - React Router Dom
@@ -13,7 +16,11 @@ Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio
 - Git
 - Axios
 
-## Funcionalidades
+<br />
+<br />
+
+## Funcionalidades 💡
+
 - Cadastro de novos usuários
 - Login de usuários cadastrados
 - Filtro por pratos ou ingredientes
@@ -24,10 +31,16 @@ Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio
 - Exclusão de pratos
 - Usuários com opções de perfil administrador ou consumidor
 
-## Deploy
+<br />
+<br />
+
+## Deploy 🌐
 Você pode acessar o projeto clicando aqui.
 
-## Como utilizar
+<br />
+<br />
+
+## Como utilizar 🚩
 ### Para logar com usuário administrador:
 Email: admin@email.com <br />
 Senha: 123456
@@ -46,12 +59,17 @@ Senha: 123456
 - Após login, você pode:
   - Filtrar
   - Visualizar detalhes de pratos existentes
+ 
+<br />
+<br />
 
-## Instalação
+## Instalação 🔨
 - Clone este projeto
 - Instale as dependências necessárias rodando o comando: npm install
 - Para rodar a aplicação: npm run dev
 
+<br />
+<br />
 
 <p align="center"> feito com 💜 por <a href="https://github.com/milenarendt" target="_blank">@milenarendt</a></p>
 
