@@ -6,7 +6,7 @@ Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio
 Neste repositório você encontrará o front-end do projeto, com um design fluido e responsivo.
 <br /> 
 <br />
-<a href="https://github.com/arendttt/web_foodExplorer" target="_blank">Link da aplicação frontend. </a>
+<a href="https://github.com/arendttt/api_foodExplorer" target="_blank">Link da aplicação back-end. </a>
 
  <br />
  <br />
