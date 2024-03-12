@@ -14,6 +14,7 @@ Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio
   - React Icons
 - Vite
 - Git
+- Figma
 - Axios
 
 <br />
