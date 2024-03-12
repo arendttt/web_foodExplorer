@@ -3,6 +3,9 @@
 ## Sobre o projeto ✨
 O Food Explorer é o projeto final do curso de desenvolvimento Full Stack da RocketSeat, o Explorer. <br />
 Trata-se de uma aplicação web que simula um aplicativo de delivery e cardápio digital para uma empresa ficticia. 
+<br /> 
+<br />
+<a href="https://github.com/arendttt/web_foodExplorer" target="_blank">Link da aplicação frontend. </a>
 
  <br />
  <br />
