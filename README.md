@@ -1,4 +1,4 @@
-# Food Explorer 🚀💥
+# <p align="center"> Food Explorer 🚀💥 </p>
 
 ## Sobre o projeto ✨
 O Food Explorer é o projeto final do curso de desenvolvimento Full Stack da RocketSeat, o Explorer. <br />
