@@ -40,7 +40,7 @@ Neste repositório você encontrará o front-end do projeto, com um design fluid
 <br />
 
 ## Deploy 🌐
-Você pode acessar o projeto clicando aqui.
+Você pode acessar o projeto clicando <a href="https://arendt-foodexplorer.netlify.app" target="_blank">aqui</a>.
 
 <br />
 <br />
