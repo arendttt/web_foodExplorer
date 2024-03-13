@@ -70,8 +70,8 @@ Senha: 123456
 
 ## Instalação 🔨
 - Clone este projeto
-- Instale as dependências necessárias rodando o comando: npm install
-- Para rodar a aplicação: npm run dev
+- Instale as dependências necessárias rodando o comando: <i>npm install</i>
+- Para rodar a aplicação: <i>npm run dev</i>
 
 <br />
 <br />
